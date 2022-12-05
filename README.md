@@ -11,7 +11,9 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
  
  
  ## Importantnt Link
- [Walkthrough video](https://drive.google.com/file/d/1VTv19Ic3sT09r4kkPXDKLDiE-Pd-u7ne/view?usp=share_link)
+ [Walkthrough video](https://drive.google.com/file/d/1VTv19Ic3sT09r4kkPXDKLDiE-Pd-u7ne/view?usp=share_link)==>  We have already updated the snippet of codes in our Final Presentation powerpoint slides but we thought that it was not enough to explain the whole scenario. So, we decided to make a walkthrough video turtorial of our project. We hope that this video will clarify the doubts of most of viewers.
+
+
  
  
 ## what is human action recognition ?
