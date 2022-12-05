@@ -18,7 +18,7 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
 
 [Final Presentation File](https://docs.google.com/presentation/d/1IjlPdesLgdp24kHC4XGcu8X2UWt5OT_poc09H4FXer8/edit?usp=sharing) ==> This is the link for our Final Presentation File which has been updated in the google slides.
 
-[demo Vide](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/demo/demo1.mp4) ==> This is the demo of how our trained model predicted actions from a video downloaded from video.
+[demo Video](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/demo/demo1.mp4) ==> This is the demo of how our trained model predicted actions from a video downloaded from video.
 
 
  
