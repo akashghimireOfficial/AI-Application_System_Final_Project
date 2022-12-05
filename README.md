@@ -1,5 +1,5 @@
 
-# Transformer based Human behaviour Analysis
+# Action classification of 4 classes of UCF-101 Dataset Using Transformer
 
 ## TEAM MEMBERS
 ```
