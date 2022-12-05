@@ -1,13 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-8.99 GB of 15 GB used
-Terms · Privacy · Programme Policies
-Last account activity: 0 minutes ago
-Open in 1 other location · Details
-
 # Transformer based Human behaviour Analysis
 
 ## TEAM MEMBERS
@@ -17,6 +8,11 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
                                  Ritik Deuja (12194824)
                                  Keshav Adhikari (12194874)
  ```
+ 
+ 
+ ## Importantnt Link
+ [Walkthrough video](https://drive.google.com/file/d/1VTv19Ic3sT09r4kkPXDKLDiE-Pd-u7ne/view?usp=share_link)
+ 
  
 ## what is human action recognition ?
 
