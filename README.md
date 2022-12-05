@@ -10,10 +10,10 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
  ```
  
  
- ## Importantnt Links
+ ## Important Links
  [Walkthrough video](https://drive.google.com/file/d/1VTv19Ic3sT09r4kkPXDKLDiE-Pd-u7ne/view?usp=share_link)==>  We have already updated the snippet of codes in our Final Presentation powerpoint slides but we thought that it was not enough to explain the whole scenario. So, we decided to make a walkthrough video turtorial of our project. We hope that this video will clarify the doubts of most of viewers.
  
- [Source Codes](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/tree/master/src)==> This folders contains the soource codes files that we have used for this project. This folder contains both .py and .ipynb(jupyter notebook) files which were used for *Data Preprocessing, Feture Extraction and Engineering,training and testing the model.* It has been clearly explained from our **Walkthrough Video** and its link can be found just above it.
+ [Source Codes](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/tree/master/src)==> This folders contains the source codes files that we have used for this project. This folder contains both .py and .ipynb(jupyter notebook) files which were used for *Data Preprocessing, Feture Extraction and Engineering,training and testing the model.* It has been clearly explained from our **Walkthrough Video** and its link can be found just above it.
 
 
 [Final Presentation File](https://docs.google.com/presentation/d/1IjlPdesLgdp24kHC4XGcu8X2UWt5OT_poc09H4FXer8/edit?usp=sharing) ==> This is the link for our Final Presentation File which has been updated in the google slides.
