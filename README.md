@@ -23,7 +23,7 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
 
 ## Explanation of code (As asked by Professor)
 
-1. As Video action recognition is temporal event; we need sequences of images. So, for this project we sampled **20 sequences of images** for each video. The code for this can be found in 
+1. As Video action recognition is temporal event; we need sequences of images. So, for this project we sampled **20 sequences of images** for each video. The code for this can be found in  this [jupyter files](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb). 
  
  
 ## what is human action recognition ?
