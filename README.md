@@ -29,7 +29,7 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
  
  3. As it is a supervised learning method tasks, we needed to create features and labels for each videos used for this project. The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **create_dataset()**. Every lines of code has been explained using comment. 
 
-4. Finally, we can trained our Transformer model using the features and labels extracted from above processes. The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **create_dataset()**.
+4. Finally, we can trained our Transformer model using the features and labels extracted from above processes. The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/training.ipynb). The model is created using the funnction **model()**. And it was trained like any other tf.keras model.  And the saved model weight was saved in this [folder](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/tree/master/saved_weight).  
  
 ## what is human action recognition ?
 
