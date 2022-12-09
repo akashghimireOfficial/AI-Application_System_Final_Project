@@ -20,6 +20,10 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
 [demo Video](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/demo/demo1.mp4) ==> This is the demo of how our trained model predicted actions from a video downloaded from video.
 
 
+
+## Explanation of code (As asked by Professor)
+
+1. As Video action recognition is temporal event; we need sequences of images. So, for this project we sampled **20 sequences of images** for each video. The code for this can be found in 
  
  
 ## what is human action recognition ?
