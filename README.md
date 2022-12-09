@@ -23,10 +23,13 @@ Akash Ghimire (12194814)         Sanjib Tamang (12194939)
 
 ## Explanation of code (As asked by Professor)
 
-1. As Video action recognition is temporal event; we need sequences of images. So, for this project we sampled **20 sequences of images** for each video. The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **extract_frames**. The detailed description has been commneted inside the jupyter notebook file itself.
+1. As Video action recognition is temporal event; we need sequences of images. So, for this project we sampled **20 sequences of images** for each video. The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **extract_frames()**. The detailed description has been commneted inside the jupyter notebook file itself.
 
-2. Next, step is to extract **RGB feratures** from each of those frames. In this repository, we have used DenseNet121 to get features from each frames. DenseNet121 will output 1024 features for each frame. So, from each input video, the features will be (20 * 1024) features.The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **features_extraction_model**. The detailed description has been commneted inside the jupyter notebook file itself.
+2. Next, step is to extract **RGB feratures** from each of those frames. In this repository, we have used DenseNet121 to get features from each frames. DenseNet121 will output 1024 features for each frame. So, from each input video, the features will be (20 * 1024) features.The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **features_extraction_model()**. The detailed description has been commneted inside the jupyter notebook file itself.
  
+ 3. As it is a supervised learning method tasks, we needed to create features and labels for each videos used for this project. The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **create_dataset()**. Every lines of code has been explained using comment. 
+
+4. Finally, we can trained our Transformer model using the features and labels extracted from above processes. The code for this can be found in  this [jupyter file](https://github.com/akashghimireOfficial/AI-Application_System_Final_Project/blob/master/src/create_training_datasets.ipynb) and the name of the function is **create_dataset()**.
  
 ## what is human action recognition ?
 
