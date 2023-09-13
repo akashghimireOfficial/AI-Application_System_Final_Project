@@ -166,7 +166,7 @@ Not long ago, LSTM/GRU was the model to do these kind of stuff.
 
 4) ***Feed forward Network***:
 
-- Simplest form of neural network as information is only processed in one direction.
+- The simplest form of neural network as information is only processed in one direction.
 
 
 
@@ -180,13 +180,13 @@ Not long ago, LSTM/GRU was the model to do these kind of stuff.
 
 ## Advantages of Transformer over LSTM/GRU
 
-- It process all the sequence at a same, thus taking the advantage of modern GPU.
+- It processes all the sequences at the same, thus taking advantage of modern GPU.
 
 
-- It doesn’t suffer from vanishing gradient and also good with transfer learning.
+- It doesn’t suffer from vanishing gradient and is also good with transfer learning.
 
 
-- Inspired from the success of BERT (a transformer model for language translation), we adopted BERT model for doing action recognition task.
+- Inspired by the success of BERT (a transformer model for language translation), we adopted the BERT model for doing action recognition tasks.
 
 ## Experimental setup
 
@@ -202,9 +202,10 @@ Not long ago, LSTM/GRU was the model to do these kind of stuff.
 
 ![image](https://user-images.githubusercontent.com/115747921/205239838-d2c771c5-50a2-4b42-a6c7-fdc59e9507ac.png)
 
-# Model evaluations
+
 
 # Demo video and project implementation
+[Youtube Link](https://www.youtube.com/watch?v=XrZSbk0cylw)
 
 ## Contribution of team member
 
